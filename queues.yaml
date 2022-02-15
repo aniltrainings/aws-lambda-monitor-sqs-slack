@@ -1,7 +1,7 @@
 sqs:
   - team1:
-    - test_devops_makelaars: 10
-    - test_devops_makelaars_errors: 0
+    - test-my-queue: 10
+    - test-dead-letter-queue: 0
 
   - team2:
     - test_devops_new_houses: 10
